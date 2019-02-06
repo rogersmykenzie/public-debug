@@ -1,12 +1,16 @@
-### Debugging Lecture Companion
+# Debugging Lecture Companion
 
-The different branches are for different problems.
+This repo is a companion project that is to be used with the debugging lecture. 
 
-##### Using the console tab
-* Branch `one` and `two`
+There are five branches in addition to `master`, each with its own set of bugs. Follow the debugging lecture outline in the `web-curriculum` repo to know when to use each branch during the lecture.
 
-#### Using the network tab
-* Branch `three`
+Solve bugs with the: 
 
-#### Using the sources tab
-* Branch `four`
+* `console` tab: 
+  * Branch one and two
+* `network` tab:
+  * Branch three
+* `sources` tab: 
+  * Branch four
+* VS Code debugger (node):
+  * Branch five 
